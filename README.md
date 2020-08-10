@@ -1,4 +1,4 @@
-# Secure-communication
+# Secure-communication  ![tag](https://img.shields.io/badge/-Security-blue)
 Secure communication between client and server(Java)
 
 The code provided is the communication between a client and server. The below instructions should be followed in order to ensure secure communication through SSL.
